@@ -1,12 +1,9 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=00ffb2&center=true&vCenter=true&random=false&width=1000&lines=Hello+there!%2C+I+am+Lucas;Also+known+as+TANDORIL😜😜;Am+19+years-old;Currently+graduating-in+Science+of+Computation;Welcome%3A)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=00ffb2&center=true&vCenter=true&random=false&width=1000&lines=Hello+there!%2C+I+am+Lucas;Also+known+as+TANDORIL😜;Am+19+years-old;Graduating-in+Science+of+Computation;Welcome%3A)](https://git.io/typing-svg)
 
 <div align="center">
    
-[![Blog](https://img.shields.io/website?label=sevak.com&style=for-the-badge&url=https://portfolio-sevaks-projects-d796dcfd.vercel.app/)](https://portfolio-sevaks-projects-d796dcfd.vercel.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sevaksons/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531997319966?text=Olá,%20me%20interessei%20sobre%20seu%20github%20e%20gostaria%20de%20fazer%20um%20orçamento!)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/0x91h3ohtq5mrfp886yrr9c01?si=2a1cceb5476f4b10)
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.nominato/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531980256926?text=Olá,%20me%20interessei%20sobre%20seu%20github%20e%20gostaria%20de%20fazer%20um%20orçamento!)
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=sevak19&show_icons=true&theme=gotham&count_private=true)
 
@@ -19,7 +16,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sevak19&theme=gotham&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LucasNominato2004&theme=gotham&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
 </div>
 
