@@ -20,7 +20,7 @@
 
 </div>
 
-## Tecnologias que eu uso no meu dia
+## Technologies I use in my daily life
 
 <div style="display: inline_block">
   <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
