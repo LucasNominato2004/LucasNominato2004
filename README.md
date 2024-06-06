@@ -32,10 +32,9 @@
   <img align="center" alt="" src="https://img.shields.io/badge/VSCode-563D7C?style=for-the-badge&logo=VSCode&logoColor=white" />
 </div><br/>
 
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevak19&layout=compact&theme=maroongold)](https://github.com/LucasNominato2004/github-readme-stats)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=00ffb2&center=true&vCenter=true&random=false&width=1000&lines=Thank+you!;)](https://git.io/typing-svg)
 
 </div>
+
