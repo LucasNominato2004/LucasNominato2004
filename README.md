@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=00ffb2&center=true&vCenter=true&random=false&width=1000&lines=Hello+there!%2C+I+am+Lucas;Also+known+as+TANDORIL😜;Am+19+years-old;Graduating-in+Science+of+Computation;Welcome%3A)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=00ffb2&center=true&vCenter=true&random=false&width=1000&lines=Hello+there!%2C+I+am+Lucas;Also+known+as+TANDORIL😜;Am+19+years-old;A+Computer-Scientist;Welcome%3A)](https://git.io/typing-svg)
 
 <div align="center">
    
@@ -36,6 +36,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevak19&layout=compact&theme=gotham)](https://github.com/sevak19/github-readme-stats)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=00ffb2&center=true&vCenter=true&random=false&width=1000&lines=Obrigado!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=00ffb2&center=true&vCenter=true&random=false&width=1000&lines=Thank+you!;)](https://git.io/typing-svg)
 
 </div>
